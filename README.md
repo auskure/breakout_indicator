@@ -33,4 +33,4 @@ A successful run will have the following output:
 'Completed successfully! Check ./results/calculation.txt'
 
 ## Credits
-This code was adapted from the arbitrage trading algorithm of [CodeTradingCafe](https://www.youtube.com/@CodeTradingCafe). It has been refactored, and a better strategy has been added, which increases the overall return on investment.  I am open to more suggestions of different features to be added.
+This code was adapted from the breakout analysis algorithm of [CodeTradingCafe](https://www.youtube.com/@CodeTradingCafe). It has been refactored, and a better strategy has been added, which increases the overall return on investment.  I am open to more suggestions of different features to be added.
